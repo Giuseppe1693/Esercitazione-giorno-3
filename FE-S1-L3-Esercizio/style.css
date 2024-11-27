@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+}
+
+header img {
+    width: 200px;
+}
+
+header div {
+    background-color: rgb(238, 238, 179);
+    padding: 0.5em;
+    border-top: 1px solid rgb(99, 99, 51);
+}
+
+article {
+    width: 50%;
+    margin: auto;
+    text-align: left;
+}
+
+#autore {
+    text-align: center;
+    color: rgb(186, 185, 185);
+    margin-top: 0.5em;
+}
+
+article img {
+    width: 100%;
+}
+
+.p {
+    color: red;
+    margin: 0 auto;
+    border-left: 1px solid #ffebbb;
+    padding: 0 10px;
+}
+
+.a {
+    margin: 0 auto;
+    border-left: 1px solid #ffebbb;
+    padding: 0 10px;
+}
